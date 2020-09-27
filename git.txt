@@ -1,0 +1,8 @@
+Git Commands
+Git init: initialize the git in the specific folder
+Git status: to know the status of the folder
+Git add. : to add the files into the git repo
+Git commit -m “message” : to commit the changes in the repo
+Git remote add <name> <url> : to add the name and the url to the repo
+Git push origin master : pushes the code to the master 
+Git clone git s
