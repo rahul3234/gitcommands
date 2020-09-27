@@ -5,4 +5,4 @@ Git add. : to add the files into the git repo
 Git commit -m “message” : to commit the changes in the repo
 Git remote add <name> <url> : to add the name and the url to the repo
 Git push origin master : pushes the code to the master 
-Git clone git s
+Git clone : git clone command is used to pull a copy (a clone) from an existing git repository. By default it creates a folder in the folder you execute it from that has a .git folder in it. The folder the cloning creates is your working copy and the .git folder is your local copy of the repository.
